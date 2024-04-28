@@ -1,0 +1,13 @@
+Explore storage as a service using own cloud for remote file access using web interfaces
+
+1.  php -7
+
+2  wget https://raw.githubusercontent.com/linuxsyr/owncloud/main/owncloud.bash
+
+3  sudo apt -y install php7,4
+
+4  ls
+
+5  chmod +xowncloud.bash
+
+6  sudo bash ./owncloud.bash

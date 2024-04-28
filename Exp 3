@@ -1,0 +1,11 @@
+Study and Implementation of infrastructure as a service
+
+1. sudo apt-get install git
+
+2. git clone http://github.com/openstack-dev/devstack
+
+3. cd devstack
+
+4. ls
+
+5. ./stack.sh
